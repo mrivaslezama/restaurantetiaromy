@@ -10,7 +10,10 @@ const App = () => {
         </div>
       </div>
     </main>
-    
+    <div className='app'>
+      <Hero/>
+      <Demo/>
+    </div>
   )
 }
 <Header/>
