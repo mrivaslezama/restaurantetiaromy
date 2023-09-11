@@ -9,7 +9,7 @@ export default {
       fontFamily:{
         satoshi:["Satoshi", "sans-serif"],
         inter:["Intern", "sans-serif"],
-      },
+      }
     },
   },
   plugins: [],
